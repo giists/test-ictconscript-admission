@@ -7,3 +7,6 @@ next dev in line.
 About testing, before closing any PR:s involving code ask me or one of the other devs test the feature and review
 the code. Since our team size is limited, the code review and QA can be done by the same person. Don't merge anything
 before you get a LGTM from someone else. 
+
+Keep the code clean for the reviewer. We don't want to waste time asking explanations for variable names etc.
+If the function or variable name isn't self explanatory then make sure to comment thoroughly.
